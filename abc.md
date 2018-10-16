@@ -4,9 +4,9 @@
 山口　太郎
 |犬|カルミア|
 |---|---|
-|![](aa.jpg)|![](bb.jpg)|
+|![](aa.png)|![](bb.png)|
 
-<img src="cc.jpg" alt="CC" title="CC"
+<img src="cc.png" alt="CC" title="CC"
 width="200" height="200" />
 
 ## 授業
